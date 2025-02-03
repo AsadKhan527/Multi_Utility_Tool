@@ -59,3 +59,6 @@ POST /api/convert-to-pdf
 Form-data: Upload a file (e.g., .png, .docx)
 {
   "pdfUrl": "http://localhost:5001/converted/converted-file.pdf"
+
+<img width="1674" alt="Multi" src="https://github.com/user-attachments/assets/dba42ac8-bde6-4429-97db-eea8a4249b14" />
+
